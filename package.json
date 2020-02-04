@@ -1,31 +1,26 @@
 {
-  "name": "keven",
-  "project-name": "project-anonymous",
+  "name": "DiscordBot",
   "version": "1.0.0",
-  "description": "first discord project",
-  "main": "index.js",
+  "description": "",
+  "main": "bot.js",
   "dependencies": {
-    "discord.io": "^2.5.3",
-    "discord.js": "discord.js/discord.js",
-    "dotenv": "^8.1.0",
-    "eslint": "^6.1.0",
-    "global": "^4.4.0",
-    "nodemon": "^1.19.1",
-    "winston": "^3.2.1"
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "nodemon": "^1.19.1"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "The-guardians",
-  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ProjectAnonymous/bot-discord.git)%3A.git"
+    "url": "git+https://github.com/ProjectAnonymous/bot-discord.git"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ProjectAnonymous/bot-discord.git)%3A/issues"
+    "url": "https://github.com/ProjectAnonymous/bot-discord/issues"
   },
-  "homepage": "https://github.com/ProjectAnonymous/bot-discord.git)%3A#readme",
-  "no-trailing-spaces": "off"
+  "homepage": "https://github.com/ProjectAnonymous/bot-discord#readme"
 }
