@@ -42,4 +42,4 @@ client.on('messageReactionAdd', (reaction, user) => {
 
 })
 
-client.login('NjY3OTYyNDA0NjYzMTk3Njk2.XjmSTg.qLTixalUAVqbwrVIWAFBO2QRN5g');
+client.login('');
